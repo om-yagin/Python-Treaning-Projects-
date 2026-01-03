@@ -1,4 +1,0 @@
-print ("Welcome to YouTube Name Generator: ")
-nickname = input("What is your nickname? \n")
-about= input("What is your channel about? \n")
-print(f"You can name your channel ({about} with {nickname})")

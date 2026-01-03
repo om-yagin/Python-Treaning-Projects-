@@ -16,7 +16,7 @@ wish_book2 = input("Enter a name of another book you wish to have in the future 
 
 wish_list = []
 if wish_book1:
-    wish_list.append(wish_book1)
+    wish_list.append(wish_book1)j5
 if wish_book2:
     wish_list.append(wish_book2)
 
